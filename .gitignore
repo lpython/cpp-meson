@@ -30,3 +30,21 @@
 *.exe
 *.out
 *.app
+
+# Build directory
+/build/
+ 
+
+# Dependency directories
+/dependencies/
+
+# IDE and editor files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.idea/
+*.swp
+
+# Miscellaneous files
+*.log
+*.tmp
